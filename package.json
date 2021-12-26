@@ -19,9 +19,17 @@
     "node": "^17.3.0",
     "node-fetch": "^2.6.6"
   },
-  "main": "app.js",
+  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinWang2312/lyricloud-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AustinWang2312/lyricloud-backend/issues"
+  },
+  "homepage": "https://github.com/AustinWang2312/lyricloud-backend#readme",
   "description": ""
 }
